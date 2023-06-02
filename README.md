@@ -1,3 +1,3 @@
 # JUNIOR
 My firt time using github 
-hope it proves uswful
+hope it proves useful
